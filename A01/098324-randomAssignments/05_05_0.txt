@@ -1,0 +1,12 @@
+NMec = 98324
+T = 5
+P = 5
+Profits not ignored
+Solution time = 5.430e+00
+Task data
+    0  18  3437
+    5  24  2332
+    6   8   424
+   11  24  2803
+   13  27  1532
+End
