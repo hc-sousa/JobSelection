@@ -13,7 +13,7 @@ Ficheiros na diretoria 98324_P4 ("main"):
 
 Ficheiros na diretoria A01:
 
- 002020 - Pasta com informações do tempo de execução para NMEC = 2020
+ 002020 - Pasta com informações do tempo de execução para NMEC = 2020\n
  002021 - Pasta com informações do tempo de execução para NMEC = 2021                                            
  098324-i3BruteForce - Pasta com informações do tempo de execução para NMEC = 98324 correndo o algoritmo "Brute Force" num i3 M350  
  098324-i7BruteForce - Pasta com informações do tempo de execução para NMEC = 98324 correndo o algoritmo "Brute Force" num i7 9750H                                          
