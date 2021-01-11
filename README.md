@@ -41,5 +41,5 @@ Ficheiros na diretoria A01:
  table098324.txt - Ficheiro com informações relevantes para NMEC = 98324 com o "Brute Force Method" corrido no i3
  table098324tree.txt - Ficheiro com informações relevantes para NMEC = 98324 metodo mais eficiente no i7
  
- *Este programa está um pouco desformatado. O resultado para um determinado valor de T e P está no inicio da linha seguinte*
+ *Este programa está um pouco desformatado. O resultado para um determinado valor de T e P está no inicio da linha seguinte
 
