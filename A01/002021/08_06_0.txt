@@ -1,0 +1,15 @@
+NMec = 2020
+T = 8
+P = 6
+Profits not ignored
+Solution time = 4.601e-05
+Task data
+    0  14  1797
+    2  20  2551
+    2  21  2876
+    4  12   882
+    5  27  3098
+    7  18  1550
+   16  28  2954
+   27  29   360
+End
