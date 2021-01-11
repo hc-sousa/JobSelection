@@ -1,4 +1,4 @@
-# JobSelection
+# Job Selection
 Generalized weighted job selection problem
 
 Henrique Sousa, NºMEC 98324, P4
