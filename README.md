@@ -3,6 +3,8 @@ Generalized weighted job selection problem
 
 Henrique Sousa, NºMEC 98324, P4
 
+Grade : 19/20
+
 ESTE FICHEIRO PODE SER USADO CASO HAJAM DÚVIDAS SOBRE A INFORMAÇÃO QUE SE ENCONTRA NUM DETERMINADO FICHEIRO E/OU DIRETORIA
 
 Ficheiros na diretoria 98324_P4:
